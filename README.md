@@ -12,8 +12,6 @@
 
 
 ```console
-
-
 💻 Working as Front-end Developer
 💖 Interested in modern development, best practices and software architecture
 ⭐ Studying to become a Software Engineer
