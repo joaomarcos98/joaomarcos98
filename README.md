@@ -46,6 +46,6 @@
   <a href="https://graphql.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
+  <a href="https://redux.js.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/>
   </a> 
