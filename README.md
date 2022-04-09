@@ -33,7 +33,7 @@
   
 
   
-  <h1>Learning:</h1>
+  <h1>Knowledge:</h1>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
@@ -49,3 +49,6 @@
   <a href="https://redux.js.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/>
   </a> 
+    <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
+  </a>
